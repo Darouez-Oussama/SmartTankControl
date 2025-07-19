@@ -13,3 +13,10 @@ This smart tank control system utilizes Arduino Cloud to create an automated wat
 - Remote monitoring through Arduino Cloud dashboard
 - Mobile access via Arduino IoT Cloud Remote app
 - Real-time data visualization of tank levels and pump performance
+
+## Support
+
+For any questions or issues:
+- Check the [Arduino Cloud Documentation](https://docs.arduino.cc/arduino-cloud/)
+- Visit the [Arduino Forum](https://forum.arduino.cc/)
+
